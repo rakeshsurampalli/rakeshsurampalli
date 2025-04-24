@@ -18,4 +18,9 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rakeshsurampalli27/)  
 - 🧑‍💻 [GitHub](https://github.com/rakeshsurampalli)  
 
+## 📊 GitHub Stats
+
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakeshsurampalli&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshsurampalli&layout=compact&theme=tokyonight)
 
