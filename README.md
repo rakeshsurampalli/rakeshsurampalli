@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Rakesh Surampalli
+🚀 Data Scientist | 🧠 AI/ML Enthusiast | 📊 Financial Analyst | 🛡️ Cybersecurity Explorer
 
-<!--
-**rakeshsurampalli/rakeshsurampalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- Python, R, SQL, MATLAB  
+- Django, Streamlit, Docker  
+- AWS, Azure  
+- Power BI, Tableau, Excel  
+- Scikit-learn, HuggingFace, TensorFlow  
 
-Here are some ideas to get you started:
+## 📈 Featured Projects
+- 🔍 **FinAI** – AI-powered portfolio analysis and financial sentiment engine  
+- 🤖 **AI Stock Summarizer** – Summarizes financial news with sentiment classification  
+- 📊 **Energy Audit Analyzer** – ML-based utility consumption visualizer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+- 📧 rakeshsurampalli@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rakeshsurampalli27/)  
+- 🧑‍💻 [GitHub](https://github.com/rakeshsurampalli)  
+
+
