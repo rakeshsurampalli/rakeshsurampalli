@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Rakesh Surampalli
-🚀 Data Scientist | 🧠 AI/ML Enthusiast | 📊 Financial Analyst | 🛡️ Cybersecurity Explorer
+👨‍💻Full Stack Developer | 🚀 Data Scientist | 🧠 AI/ML Enthusiast | 📊 Financial Analyst | 🛡️ Cybersecurity Explorer
 
 ## 🛠️ Tech Stack
 - Python, R, SQL, MATLAB  
