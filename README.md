@@ -3,7 +3,7 @@
 
 ## 🛠️ Tech Stack
 - Python, R, SQL, MATLAB  
-- Django, Streamlit, Docker  
+- Django, Flask, Streamlit, Docker  
 - AWS, Azure  
 - Power BI, Tableau, Excel  
 - Scikit-learn, HuggingFace, TensorFlow  
