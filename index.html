@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en" style="
+    overflow-x: hidden;
+    width: 100%;">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rakesh Surampalli | Portfolio</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="logo">Rakesh Surampalli</div>
+    <nav class="nav">
+      <a href="#about">About</a>
+      <a href="#experience">Experience</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <div class="header-actions">
+      <button class="dev-toggle" id="devToggle" type="button" aria-haspopup="dialog" aria-controls="devTerminal">
+        Dev Mode
+      </button>
+    </div>
+  </header>
+
+  <div class="intro-loader" id="introLoader" aria-hidden="true">
+    <div class="intro-loader__content">
+      <span class="intro-loader__status" aria-hidden="true">Initializing…</span>
+      <span class="visually-hidden">Loading portfolio</span>
+      <div class="intro-loader__bar" role="presentation"></div>
+    </div>
+  </div>
+
+  <main class="site-main" data-initialized>
+    <section class="hero" id="hero" data-scene="hero">
+      <div class="hero__background">
+  <!-- Aurora, stellar, and neural canvases removed -->
+      </div>
+      <div class="hero__tooltip" id="heroTooltip" hidden>
+        <h3 id="heroTooltipTitle"></h3>
+        <p id="heroTooltipBody"></p>
+      </div>
+      <div class="hero__content">
+        <p class="hero__eyebrow">Product Developer</p>
+        <p class="hero__tagline">Building AI-powered, data-driven, and design-centric products.</p>
+        <h1 class="hero__title">I craft intelligent web and mobile experiences that merge data, design, and AI.</h1>
+        <p class="hero__subtitle">I help teams and startups turn complex ideas into real, scalable solutions using Python, Django, React, and cloud-native systems — blending engineering precision with user empathy.</p>
+        <div class="hero__actions" data-reveal>
+          <a class="btn btn--magnetic" href="#projects">View Projects</a>
+          <a class="btn btn--ghost btn--magnetic" href="#contact">Let us collaborate</a>
+        </div>
+      </div>
+      <div class="hero__aside" data-reveal data-reveal-delay="0.15">
+        <div class="hero__card">
+          <h2>Current Focus</h2>
+          <ul>
+            <li>Integrating AI into everyday workflows</li>
+            <li>Bridging design, data, and decision-making</li>
+            <li>Automating deployments for rapid product iteration</li>
+          </ul>
+        </div>
+        <ul class="hero__chips" aria-hidden="true">
+          <li>Primary Tech Stack :
+            ·Python 
+            · Django 
+            · React 
+            · React Native 
+            · PostgreSQL
+            · Docker 
+            · Azure 
+            · GCP</li>
+          <li>AI & Data :
+            OpenAI API · TensorFlow · Scikit-learn · Pandas · NLP · LSTM · Alpha Vantage</li>
+          <li>Tools & Design :
+            Figma · Tailwind · GitHub Actions · REST & GraphQL APIs</li>
+        </ul>
+      </div>
+    </section>
+
+  <section class="about" id="about" data-scene="about">
+      <div class="section__header" data-reveal>
+        <h2>About</h2>
+        <p>A snippet of my journey, values, and what keeps me curious.</p>
+      </div>
+      <div class="about__grid">
+        <article data-reveal>
+          <h3>Who I Am</h3>
+          <p>I am a hands-on Product Developer who loves transforming ideas into intelligent, user-focused digital products. My work bridges front-end experiences with robust backend systems — from AI-powered analytics to smart integrations — creating seamless products that scale with purpose.</p>
+        </article>
+        <article data-reveal data-reveal-delay="0.1">
+          <h3>What I Believe</h3>
+          <p>I believe great products emerge where creativity meets engineering. Thoughtful design, data-driven decisions, and continuous iteration form the foundation of innovation. Every product I build aims to empower users and make technology feel effortless.</p>
+        </article>
+        <article data-reveal data-reveal-delay="0.2">
+          <h3>Beyond Work</h3>
+          <p>Outside of work, I explore cutting-edge technologies across AI, IoT, and cloud ecosystems. I enjoy prototyping innovative ideas that blend automation, data, and human experience to envision the next generation of intelligent products.</p>
+        </article>
+      </div>
+    </section>
+
+  <section class="experience" id="experience" data-scene="experience">
+      <div class="section__header" data-reveal>
+        <h2>Experience</h2>
+        <p>Highlights from roles where I led with curiosity and shipped with discipline.</p>
+      </div>
+      <div class="timeline">
+        <article class="timeline__item" data-reveal>
+          <span class="timeline__date">2023 — Present</span>
+          <div class="timeline__content">
+            <h3>Full-Stack Developer · CVS Health</h3>
+            <p>Built secure, full-stack healthcare analytics on Django + React. Automated backup & recovery with AWS Backup, Step Functions, Lambda, EventBridge to strengthen continuity. Shipped NLP features (summarization, adherence prediction) via REST APIs. Hardened security with IAM/KMS and HIPAA-aligned controls. Containerized services with Docker and deployed to Azure App Service with GitHub Actions CI/CD. Embedded Power BI dashboards for real-time exec insights and improved reliability using Splunk/AWS monitoring.</p>
+          </div>
+        </article>
+        <article class="timeline__item" data-reveal data-reveal-delay="0.1">
+          <span class="timeline__date">2022 — 2023</span>
+          <div class="timeline__content">
+            <h3>Data Analytics Engineer · Copart</h3>
+            <p>Analyzed auction behavior with Python + SQL, delivered pricing/performance dashboards, and streamlined reporting across teams. Migrated data from on-prem MariaDB to GCP for scale. Built Tableau extracts/views and automated pipelines that reduced manual reporting and improved time-to-insight for operations and finance.</p>
+          </div>
+        </article>
+        <article class="timeline__item" data-reveal data-reveal-delay="0.2">
+          <span class="timeline__date">2019 — 2021</span>
+          <div class="timeline__content">
+            <h3>Backend Developer Intern · Toyama Home Automation</h3>
+            <p>Developed Django services for IoT devices; parsed device data to structured JSON and exposed control APIs used by React apps/Alexa. Implemented time-based automation and smart-switch syncing. Shipped with Docker + CI/CD, cutting API latency by 40%. Practiced TDD with Python unit tests and built microservices/REST endpoints for supplier and network telemetry.</p>
+          </div>
+        </article>
+        <article class="timeline__item" data-reveal data-reveal-delay="0.1">
+          <span class="timeline__date">2016 — 2019</span>
+          <div class="timeline__content">
+            <h3>Sensing & Automation Lead · Project Manas (Autonomous Vehicle Team)</h3>
+            <p>Integrated cameras/LiDAR/radar/ultrasonic sensors, built custom PCBs, and connected embedded systems to NVIDIA platforms (Embedded C). Developed sensor fusion and real-time detection with OpenCV/Deep Learning; collaborated with planning/control to validate navigation in field trials.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+  <section class="projects" id="projects" data-scene="projects">
+      <div class="section__header" data-reveal>
+        <h2>Projects</h2>
+        <p>A selection of builds that showcase problem solving and product polish.</p>
+      </div>
+      <div class="cards project-grid">
+        <article class="card project-card" data-project="finai" tabindex="0" aria-expanded="false" data-reveal>
+          <div class="project-card__inner">
+            <div class="project-card__face project-card__face--front">
+              <h3>FinAI</h3>
+              <p>An AI-powered personal finance app that helps users track expenses, analyze spending, and optimize budgets.</p>
+              <ul>
+                <li>React Native, Python, Firebase</li>
+                <li>Automated budgeting and smart notifications</li>
+              </ul>
+            </div>
+            <div class="project-card__face project-card__face--back" aria-hidden="true">
+              <div class="project-card__overview">
+                <h4>Overview</h4>
+                <p>FinAI uses AI to provide actionable insights on spending habits, helping users save more and reach their financial goals.</p>
+              </div>
+              <div class="project-card__links">
+                <h4>Links</h4>
+                <button class="project-card__link" type="button">Read case study</button>
+                <button class="project-card__link project-card__link--ghost" type="button">Try FinAI</button>
+              </div>
+              <ul class="project-card__highlights">
+                <li>AI-driven insights for smarter financial decisions.</li>
+                <li>Personalized budgeting and savings recommendations.</li>
+                <li>Seamless sync across devices.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+        <article class="card project-card" data-project="tudu" tabindex="0" aria-expanded="false" data-reveal>
+          <div class="project-card__inner">
+            <div class="project-card__face project-card__face--front">
+              <h3>Tudu</h3>
+              <p>A smart task management app that automates reminders, tracks goals, and boosts productivity with intelligent suggestions.</p>
+              <ul>
+                <li>React Native, Node.js</li>
+                <li>Automated reminders and productivity analytics</li>
+              </ul>
+            </div>
+            <div class="project-card__face project-card__face--back" aria-hidden="true">
+              <div class="project-card__overview">
+                <h4>Overview</h4>
+                <p>Tudu leverages AI to help users organize tasks, set priorities, and stay on top of their goals with minimal effort.</p>
+              </div>
+              <div class="project-card__links">
+                <h4>Links</h4>
+                <button class="project-card__link" type="button">Read case study</button>
+                <button class="project-card__link project-card__link--ghost" type="button">Try Tudu</button>
+              </div>
+              <ul class="project-card__highlights">
+                <li>Smart scheduling and reminders.</li>
+                <li>Goal tracking and productivity analytics.</li>
+                <li>Intelligent suggestions for daily planning.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+        <article class="card project-card" data-project="agrismart" tabindex="0" aria-expanded="false" data-reveal data-reveal-delay="0.1">
+          <div class="project-card__inner">
+            <div class="project-card__face project-card__face--front">
+              <h3>AgriSmart</h3>
+              <p>A smart agriculture platform that leverages IoT and machine learning to optimize crop yield and resource usage for farmers.</p>
+              <ul>
+                <li>IoT, Machine Learning, Node.js</li>
+                <li>Real-time monitoring and predictive analytics</li>
+              </ul>
+            </div>
+            <div class="project-card__face project-card__face--back" aria-hidden="true">
+              <div class="project-card__overview">
+                <h4>Overview</h4>
+                <p>AgriSmart empowers farmers with data-driven insights, automating irrigation and fertilization for sustainable agriculture.</p>
+              </div>
+              <div class="project-card__links">
+                <h4>Links</h4>
+                <button class="project-card__link" type="button">Read case study</button>
+                <button class="project-card__link project-card__link--ghost" type="button">See demo</button>
+              </div>
+              <ul class="project-card__highlights">
+                <li>IoT sensors for real-time field data.</li>
+                <li>ML models predict optimal crop cycles.</li>
+                <li>Automated resource management.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+  <section class="contact" id="contact" data-scene="contact">
+      <div class="section__header" data-reveal>
+        <h2>Contact</h2>
+        <p>Let's connect on new challenges, collaborations, or a shared love for design systems.</p>
+      </div>
+      <form class="contact__form" id="contactForm" data-reveal data-reveal-delay="0.1">
+        <div class="form__control">
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name" placeholder="Your name" required />
+        </div>
+        <div class="form__control">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" placeholder="you@example.com" required />
+        </div>
+        <div class="form__control">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="4" placeholder="Tell me how I can help" required></textarea>
+        </div>
+        <button type="submit" class="btn btn--magnetic" id="formSubmit">Send message</button>
+        <p class="form__feedback" id="formFeedback" role="status" aria-live="polite"></p>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year"></span> Rakesh Surampalli. Crafted with curiosity.</p>
+  </footer>
+
+  <div class="command-palette" id="commandPalette" aria-hidden="true">
+    <div class="command-palette__backdrop" data-command-dismiss></div>
+    <div class="command-palette__panel" role="dialog" aria-modal="true" aria-labelledby="commandPaletteTitle">
+      <div class="command-palette__header">
+        <h2 class="command-palette__title" id="commandPaletteTitle">Quick Actions</h2>
+        <button class="command-palette__close" type="button" data-command-dismiss aria-label="Close command palette">×</button>
+      </div>
+      <div class="command-palette__body">
+        <label class="visually-hidden" for="commandPaletteInput">Search actions</label>
+        <input class="command-palette__input" id="commandPaletteInput" type="text" placeholder="Jump to section or run a command" autocomplete="off" spellcheck="false" />
+        <ul class="command-palette__results" id="commandPaletteResults" role="listbox"></ul>
+      </div>
+      <footer class="command-palette__footer">
+        <span>Tip: Press Ctrl + K (or Cmd + K) to open fast</span>
+      </footer>
+    </div>
+  </div>
+
+  <div class="case-modal" id="caseModal" aria-hidden="true">
+    <div class="case-modal__backdrop" data-case-dismiss></div>
+    <article class="case-modal__window" role="dialog" aria-modal="true" aria-labelledby="caseModalTitle">
+      <header class="case-modal__header">
+        <h2 id="caseModalTitle"></h2>
+        <button class="case-modal__close" type="button" data-case-dismiss aria-label="Close case study">×</button>
+      </header>
+      <div class="case-modal__body">
+        <p class="case-modal__summary" id="caseModalSummary"></p>
+        <div class="case-modal__reel" id="caseModalReel" aria-hidden="true"></div>
+        <ul class="case-modal__highlights" id="caseModalHighlights"></ul>
+        <div class="case-modal__meta">
+          <div>
+            <h3>Impact</h3>
+            <ul id="caseModalImpact"></ul>
+          </div>
+          <div>
+            <h3>Toolkit</h3>
+            <ul id="caseModalStack"></ul>
+          </div>
+        </div>
+      </div>
+      <footer class="case-modal__footer">
+        <button class="btn btn--magnetic" type="button" id="caseModalConnect">Start a project</button>
+      </footer>
+    </article>
+  </div>
+
+  <div class="dev-terminal" id="devTerminal" aria-hidden="true">
+    <div class="dev-terminal__backdrop" data-terminal-dismiss></div>
+    <div class="dev-terminal__window" role="dialog" aria-modal="true" aria-labelledby="devTerminalTitle">
+      <header class="dev-terminal__header">
+        <div class="dev-terminal__title" id="devTerminalTitle">
+          <span class="dev-terminal__status" aria-hidden="true"></span>
+          rakesh@portfolio:~
+        </div>
+        <button class="dev-terminal__close" type="button" data-terminal-dismiss aria-label="Close terminal">×</button>
+      </header>
+      <div class="dev-terminal__body">
+        <div class="dev-terminal__output" id="devTerminalOutput" role="log" aria-live="polite"></div>
+        <label class="visually-hidden" for="devTerminalInput">Terminal command input</label>
+        <div class="dev-terminal__prompt">
+          <span class="dev-terminal__prompt-label" aria-hidden="true">rakesh@portfolio:~$</span>
+          <input id="devTerminalInput" type="text" autocomplete="off" spellcheck="false" />
+        </div>
+        <p class="dev-terminal__hint" aria-hidden="true">Press Enter to run commands • Type "help" for guidance</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/js/main.js"></script>
+  <script type="text/javascript" color='100, 100, 75' opacity='10' zIndex="-2" count="500"
+        src="
+        bgscript.js"></script>
+</body>
+</html>
