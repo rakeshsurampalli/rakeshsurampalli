@@ -56,7 +56,6 @@ I turn complex business problems into simple AI-powered solutions 🚀
       </ul>
       <p align="center"><i>Django • React • AI • Cloud</i></p>
     </td>
-
     <td width="33%" valign="top">
       <h3 align="center">🧠 Tudu</h3>
       <p align="center">Smart AI task planning & productivity platform.</p>
@@ -67,7 +66,6 @@ I turn complex business problems into simple AI-powered solutions 🚀
       </ul>
       <p align="center"><i>React • Django • AI • APIs</i></p>
     </td>
-
     <td width="33%" valign="top">
       <h3 align="center">🌱 Atharva</h3>
       <p align="center">AgriTech platform combining AI + IoT.</p>
