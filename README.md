@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Rakesh Surampalli
 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Product+Builder;Founder+of+FinAI,+Tudu+%26+Atharva;Integrating+AI+into+Small+Businesses;Full+Stack+%2B+AI+Engineer&font=Fira%20Code&center=true&width=750&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
