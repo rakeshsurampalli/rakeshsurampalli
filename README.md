@@ -110,7 +110,6 @@ I turn complex business problems into simple AI-powered solutions 🚀
 
 ## 💻 Tech Stack (Core)
 
-### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react" height="36"/>
   <img src="https://skillicons.dev/icons?i=nextjs" height="36"/>
@@ -118,24 +117,12 @@ I turn complex business problems into simple AI-powered solutions 🚀
   <img src="https://skillicons.dev/icons?i=css" height="36"/>
   <img src="https://skillicons.dev/icons?i=js" height="36"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
-</p>
-
----
-
-### 🌐 Backend
-<p>
   <img src="https://skillicons.dev/icons?i=python" height="36"/>
   <img src="https://skillicons.dev/icons?i=django" height="36"/>
   <img src="https://skillicons.dev/icons?i=fastapi" height="36"/>
   <img src="https://skillicons.dev/icons?i=flask" height="36"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="36"/>
   <img src="https://skillicons.dev/icons?i=redis" height="36"/>
-</p>
-
----
-
-### ☁️ Cloud / DevOps
-<p>
   <img src="https://skillicons.dev/icons?i=aws" height="36"/>
   <img src="https://skillicons.dev/icons?i=azure" height="36"/>
   <img src="https://skillicons.dev/icons?i=gcp" height="36"/>
@@ -143,33 +130,15 @@ I turn complex business problems into simple AI-powered solutions 🚀
   <img src="https://skillicons.dev/icons?i=kubernetes" height="36"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="36"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="36"/>
-</p>
-
----
-
-### 🗄 Databases
-<p>
   <img src="https://skillicons.dev/icons?i=postgres" height="36"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="36"/>
   <img src="https://skillicons.dev/icons?i=sqlite" height="36"/>
   <img src="https://skillicons.dev/icons?i=redis" height="36"/>
   <img src="https://skillicons.dev/icons?i=firebase" height="36"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="36"/>
-</p>
-
----
-
-### 🔗 APIs / Integrations
-<p>
   <img src="https://skillicons.dev/icons?i=graphql" height="36"/>
   <img src="https://skillicons.dev/icons?i=stripe" height="36"/>
   <img src="https://skillicons.dev/icons?i=twilio" height="36"/>
-</p>
-
----
-
-### 🛠 Tools & Platforms
-<p>
   <img src="https://skillicons.dev/icons?i=git" height="36"/>
   <img src="https://skillicons.dev/icons?i=github" height="36"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="36"/>
@@ -178,12 +147,6 @@ I turn complex business problems into simple AI-powered solutions 🚀
   <img src="https://skillicons.dev/icons?i=postman" height="36"/>
   <img src="https://skillicons.dev/icons?i=figma" height="36"/>
   <img src="https://skillicons.dev/icons?i=notion" height="36"/>
-</p>
-
----
-
-### 🤖 IoT / Hardware
-<p>
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="36"/>
   <img src="https://skillicons.dev/icons?i=arduino" height="36"/>
 </p>
