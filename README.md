@@ -13,6 +13,10 @@
 
 ✨ Building **real-world AI products** that solve meaningful business problems.
 
+🎯 **Mission**  
+To build practical, revenue-driven AI products that automate real business workflows and unlock human productivity.
+
+
 🚀 **Currently working on**
 - **FinAI** – AI-powered finance & portfolio intelligence  
 - **Tudu** – Smart AI task planning & productivity platform  
@@ -94,6 +98,9 @@ I turn complex business problems into simple AI-powered solutions 🚀
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DHRdr2rd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshsurampalli27/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@AlwaysSilentDiscipline)
+[![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)](https://medium.com/@rakeshsurampalli)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://rakeshsurampalli.github.io/Rakesh_portfolio/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mrjoker369)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshsurampalli@gmail.com)
 
