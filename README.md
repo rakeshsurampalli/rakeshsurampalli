@@ -110,82 +110,82 @@ I turn complex business problems into simple AI-powered solutions 🚀
 
 ## 💻 Tech Stack (Core)
 
-### 🎨 Frontend  
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="28"/> React &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="28"/> Next.js &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="28"/> HTML &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="28"/> CSS &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="28"/> JavaScript &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="28"/> Tailwind CSS
+  <img src="https://skillicons.dev/icons?i=react" height="36"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="36"/>
+  <img src="https://skillicons.dev/icons?i=html" height="36"/>
+  <img src="https://skillicons.dev/icons?i=css" height="36"/>
+  <img src="https://skillicons.dev/icons?i=js" height="36"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
 </p>
 
 ---
 
-### 🌐 Backend  
+### 🌐 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="28"/> Python &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" height="28"/> Django &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="28"/> FastAPI &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" height="28"/> Flask &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="28"/> Node.js &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="28"/> Redis
+  <img src="https://skillicons.dev/icons?i=python" height="36"/>
+  <img src="https://skillicons.dev/icons?i=django" height="36"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="36"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="36"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="36"/>
 </p>
 
 ---
 
-### ☁️ Cloud / DevOps  
+### ☁️ Cloud / DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" height="28"/> AWS &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" height="28"/> Azure &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" height="28"/> GCP &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="28"/> Docker &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="28"/> Kubernetes &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=terraform" height="28"/> Terraform &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nginx" height="28"/> Nginx
+  <img src="https://skillicons.dev/icons?i=aws" height="36"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="36"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="36"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="36"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="36"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="36"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="36"/>
 </p>
 
 ---
 
-### 🗄 Databases  
+### 🗄 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="28"/> PostgreSQL &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="28"/> MySQL &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" height="28"/> SQLite &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="28"/> Redis &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="28"/> Firebase &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="28"/> MongoDB
+  <img src="https://skillicons.dev/icons?i=postgres" height="36"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="36"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="36"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="36"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="36"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36"/>
 </p>
 
 ---
 
-### 🔗 APIs / Integrations  
+### 🔗 APIs / Integrations
 <p>
-  <img src="https://skillicons.dev/icons?i=graphql" height="28"/> GraphQL &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=stripe" height="28"/> Stripe &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=twilio" height="28"/> Twilio
+  <img src="https://skillicons.dev/icons?i=graphql" height="36"/>
+  <img src="https://skillicons.dev/icons?i=stripe" height="36"/>
+  <img src="https://skillicons.dev/icons?i=twilio" height="36"/>
 </p>
 
 ---
 
-### 🛠 Tools & Platforms  
+### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="28"/> Git &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="28"/> GitHub &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" height="28"/> GitHub Actions &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="28"/> Linux &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="28"/> VS Code &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="28"/> Postman &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" height="28"/> Figma &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=notion" height="28"/> Notion
+  <img src="https://skillicons.dev/icons?i=git" height="36"/>
+  <img src="https://skillicons.dev/icons?i=github" height="36"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="36"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="36"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="36"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="36"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="36"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="36"/>
 </p>
 
 ---
 
-### 🤖 IoT / Hardware (Atharva)  
+### 🤖 IoT / Hardware
 <p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="28"/> Raspberry Pi &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=arduino" height="28"/> Arduino
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="36"/>
+  <img src="https://skillicons.dev/icons?i=arduino" height="36"/>
 </p>
 
 <p align="center">
