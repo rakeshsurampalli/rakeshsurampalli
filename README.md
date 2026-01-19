@@ -137,8 +137,6 @@ I turn complex business problems into simple AI-powered solutions 🚀
   <img src="https://skillicons.dev/icons?i=firebase" height="36"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="36"/>
   <img src="https://skillicons.dev/icons?i=graphql" height="36"/>
-  <img src="https://skillicons.dev/icons?i=stripe" height="36"/>
-  <img src="https://skillicons.dev/icons?i=twilio" height="36"/>
   <img src="https://skillicons.dev/icons?i=git" height="36"/>
   <img src="https://skillicons.dev/icons?i=github" height="36"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="36"/>
