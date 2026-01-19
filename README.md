@@ -110,8 +110,58 @@ I turn complex business problems into simple AI-powered solutions 🚀
 
 ## 💻 Tech Stack (Core)
 
+### 🧠 AI / Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,reactnative,aws,azure,postgres,docker,git,linux,terraform&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,tensorflow,pytorch&perline=8" />
+</p>
+
+---
+
+### 🌐 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,redis&perline=8" />
+</p>
+
+---
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,html,css,js,tailwind&perline=8" />
+</p>
+
+---
+
+### ☁️ Cloud / DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,nginx&perline=8" />
+</p>
+
+---
+
+### 🗄 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase,mongodb&perline=8" />
+</p>
+
+---
+
+### 🔗 APIs / Integrations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=stripe,twilio,graphql&perline=8" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,postman,figma,notion&perline=8" />
+</p>
+
+---
+
+### 🤖 IoT / Hardware (Atharva)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&perline=8" />
 </p>
 
 <p align="center">
