@@ -148,7 +148,6 @@ I turn complex business problems into simple AI-powered solutions 🚀
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="36"/>
   <img src="https://skillicons.dev/icons?i=arduino" height="36"/>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 </p>
