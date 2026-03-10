@@ -11,7 +11,7 @@
 
 ## ✨ About Me
 
-✨ Building **real-world AI products** that solve meaningful business problems.
+✨ Building **real world AI products** that solve meaningful business problems.
 
 🎯 **Mission**  
 To build practical, revenue-driven AI products that automate real business workflows and unlock human productivity.
