@@ -4,11 +4,18 @@
   Edit the data at the top of those scripts, then run:
       python scripts/generate_profile_assets.py
   Do not hand-edit the SVGs in ./assets - they are build output.
+
+  Two GitHub rendering rules shape the markup below:
+  1. an image that is not already inside a link gets auto-wrapped in a link to
+     its raw blob, opened in a new tab - so every image here carries its own
+     same-page anchor instead;
+  2. target="_blank" is stripped from author-supplied anchors, so external
+     links open in the same tab (ctrl/cmd+click still opens a new one).
 -->
 
 <div align="center">
 
-<img src="assets/hero-terminal.svg" width="100%" alt="Rakesh Surampalli - Full-Stack AI Engineer and AI Product Builder. Terminal boot screen with ASCII portrait. System status: online.">
+<a href="#about"><img src="assets/hero-terminal.svg" width="100%" alt="Rakesh Surampalli - Full-Stack AI Engineer and AI Product Builder. Terminal boot screen with ASCII portrait. System status: online."></a>
 
 <br><br>
 
@@ -22,9 +29,9 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/rakeshsurampalli27/" target="_blank" rel="noopener noreferrer"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
-<a href="https://rakeshsurampalli.github.io/Rakesh_portfolio/" target="_blank" rel="noopener noreferrer"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio"></a>
-<a href="https://medium.com/@rakeshsurampalli" target="_blank" rel="noopener noreferrer"><img src="assets/btn-medium.svg" height="40" alt="Medium"></a>
+<a href="https://www.linkedin.com/in/rakeshsurampalli27/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+<a href="https://rakeshsurampalli.github.io/Rakesh_portfolio/"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio"></a>
+<a href="https://medium.com/@rakeshsurampalli"><img src="assets/btn-medium.svg" height="40" alt="Medium"></a>
 <a href="mailto:rakeshsurampalli@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
 
 </div>
@@ -33,7 +40,7 @@
 
 ## ABOUT
 
-<img src="assets/cmd-whoami.svg" width="100%" alt="rakesh@github:~$ whoami">
+<a href="#about"><img src="assets/cmd-whoami.svg" width="100%" alt="rakesh@github:~$ whoami"></a>
 
 Full-Stack AI Engineer focused on building production-grade AI applications across
 generative AI, agentic systems, retrieval, backend engineering, modern web platforms
@@ -46,51 +53,51 @@ My focus is not simply connecting software to an LLM.
 
 I build systems where AI becomes part of a reliable product, workflow or decision process.
 
-<img src="assets/modules.svg" width="100%" alt="Engineering areas: AI systems, backend, product, platform.">
+<a href="#about"><img src="assets/modules.svg" width="100%" alt="Engineering areas: AI systems, backend, product, platform."></a>
 
 <br>
 
 ## PROJECTS
 
-<img src="assets/projects.svg" width="100%" alt="Project registry. 001 FinAI, financial AI, active. 002 Tudu, productivity AI, active. 003 Atharva, AI and IoT agriculture, building.">
+<a href="#projects"><img src="assets/projects.svg" width="100%" alt="Project registry. 001 FinAI, financial AI, active. 002 Tudu, productivity AI, active. 003 Atharva, AI and IoT agriculture, building."></a>
 
 <br>
 
 ## ARCHITECTURE
 
-<img src="assets/architecture.svg" width="100%" alt="Reference AI system architecture: user, React or Next.js client, FastAPI or Django API, LangGraph and LangChain orchestration, LLM agents and hybrid RAG, tools, Redis, vector database and PostgreSQL, cloud infrastructure, observability.">
+<a href="#architecture"><img src="assets/architecture.svg" width="100%" alt="Reference AI system architecture: user, React or Next.js client, FastAPI or Django API, LangGraph and LangChain orchestration, LLM agents and hybrid RAG, tools, Redis, vector database and PostgreSQL, cloud infrastructure, observability."></a>
 
 <br>
 
 ## STACK
 
-<img src="assets/tech-stack.svg" width="100%" alt="Technology stack grouped by discipline: AI and generative AI, languages, backend, frontend, data stores, ML and data, cloud, DevOps, security and observability, analytics, tooling.">
+<a href="#stack"><img src="assets/tech-stack.svg" width="100%" alt="Technology stack grouped by discipline: AI and generative AI, languages, backend, frontend, data stores, ML and data, cloud, DevOps, security and observability, analytics, tooling."></a>
 
 <br>
 
 ## FOCUS
 
-<img src="assets/focus.svg" width="100%" alt="Current focus: AI engineering, agentic systems, retrieval, AI security, backend and platform.">
+<a href="#focus"><img src="assets/focus.svg" width="100%" alt="Current focus: AI engineering, agentic systems, retrieval, AI security, backend and platform."></a>
 
-<img src="assets/philosophy.svg" width="100%" alt="Engineering philosophy: 01 solve, 02 design, 03 measure, 04 improve. AI becomes valuable when it moves beyond a model response and becomes part of a reliable product, workflow or decision system.">
+<a href="#focus"><img src="assets/philosophy.svg" width="100%" alt="Engineering philosophy: 01 solve, 02 design, 03 measure, 04 improve. AI becomes valuable when it moves beyond a model response and becomes part of a reliable product, workflow or decision system."></a>
 
 <br>
 
 ## ACTIVITY
 
-<img src="assets/contribution-stream.svg" width="100%" alt="GitHub contribution stream: a Matrix-green heatmap of the last 365 days of public contributions, refreshed daily by GitHub Actions.">
+<a href="#activity"><img src="assets/contribution-stream.svg" width="100%" alt="GitHub contribution stream: a Matrix-green heatmap of the last 365 days of public contributions, refreshed daily by GitHub Actions."></a>
 
 <br>
 
 ## CONNECT
 
-<img src="assets/connect.svg" width="100%" alt="Domains: generative AI, agentic systems, hybrid RAG, full-stack AI, AI SaaS, cloud architecture, intelligent automation, AI security. Build systems, solve problems, create impact. System status: online.">
+<a href="#connect"><img src="assets/connect.svg" width="100%" alt="Domains: generative AI, agentic systems, hybrid RAG, full-stack AI, AI SaaS, cloud architecture, intelligent automation, AI security. Build systems, solve problems, create impact. System status: online."></a>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rakeshsurampalli27/" target="_blank" rel="noopener noreferrer"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
-<a href="https://rakeshsurampalli.github.io/Rakesh_portfolio/" target="_blank" rel="noopener noreferrer"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio"></a>
-<a href="https://medium.com/@rakeshsurampalli" target="_blank" rel="noopener noreferrer"><img src="assets/btn-medium.svg" height="40" alt="Medium"></a>
+<a href="https://www.linkedin.com/in/rakeshsurampalli27/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+<a href="https://rakeshsurampalli.github.io/Rakesh_portfolio/"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio"></a>
+<a href="https://medium.com/@rakeshsurampalli"><img src="assets/btn-medium.svg" height="40" alt="Medium"></a>
 <a href="mailto:rakeshsurampalli@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"></a>
 
 </div>
