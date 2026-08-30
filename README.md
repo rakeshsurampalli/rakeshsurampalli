@@ -1,38 +1,41 @@
-<!-- ==========================================================
+<!-- ============================================================
      RAKESH SURAMPALLI
      GITHUB PROFILE README
-     ========================================================== -->
+     MATRIX EDITION
+     ============================================================ -->
 
 <div align="center">
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,65:1F2937,100:0D1117&height=220&section=header&text=Rakesh%20Surampalli&fontSize=48&fontColor=F0F6FC&fontAlignY=36&desc=Full-Stack%20AI%20Engineer%20%7C%20AI%20Product%20Builder&descSize=19&descAlignY=56"/>
+<h1>RAKESH SURAMPALLI</h1>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+Agentic+Systems+%7C+Hybrid+RAG;Python+%7C+FastAPI+%7C+React+%7C+Cloud;Turning+Complex+Problems+Into+Intelligent+Products"
-/>
+<h3>FULL-STACK AI ENGINEER · AI PRODUCT BUILDER</h3>
+
+<p>
+Building production-grade AI systems across Generative AI, Agentic Systems,
+Hybrid RAG, Full-Stack Engineering and Cloud.
+</p>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rakeshsurampalli27/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LINKEDIN-001A08?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
+
+<a href="https://rakeshsurampalli.github.io/Rakesh_portfolio/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/PORTFOLIO-001A08?style=for-the-badge&logo=githubpages&logoColor=00FF41"/>
+</a>
+
+<a href="https://medium.com/@rakeshsurampalli" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/MEDIUM-001A08?style=for-the-badge&logo=medium&logoColor=00FF41"/>
+</a>
+
+<a href="mailto:rakeshsurampalli@gmail.com" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/CONTACT-001A08?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/rakeshsurampalli27/">
-<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
-
-<a href="https://rakeshsurampalli.github.io/Rakesh_portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=githubpages&logoColor=A371F7"/>
-</a>
-
-<a href="https://medium.com/@rakeshsurampalli">
-<img src="https://img.shields.io/badge/MEDIUM-161B22?style=for-the-badge&logo=medium&logoColor=F0F6FC"/>
-</a>
-
-<a href="mailto:rakeshsurampalli@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=D29922"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rakeshsurampalli&label=PROFILE%20VIEWS&color=30363D&style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20INTELLIGENT%20SYSTEMS-001A08?style=flat-square&labelColor=0D1117&color=001A08"/>
 
 </div>
 
@@ -40,14 +43,37 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=2
 
 <div align="center">
 
-[ABOUT](#01--about) •
-[HOW I BUILD](#02--how-i-build) •
-[PRODUCTS](#03--products) •
-[AI ENGINEERING](#04--ai-engineering) •
-[STACK](#05--technology-stack) •
-[FOCUS](#06--current-focus) •
-[ACTIVITY](#07--github-activity) •
-[CONNECT](#08--connect)
+<a href="#01--about">
+<img src="https://img.shields.io/badge/01-ABOUT-001A08?style=flat-square&labelColor=0D1117"/>
+</a>
+
+<a href="#02--how-i-build">
+<img src="https://img.shields.io/badge/02-HOW%20I%20BUILD-001A08?style=flat-square&labelColor=0D1117"/>
+</a>
+
+<a href="#03--products">
+<img src="https://img.shields.io/badge/03-PRODUCTS-001A08?style=flat-square&labelColor=0D1117"/>
+</a>
+
+<a href="#04--ai-engineering">
+<img src="https://img.shields.io/badge/04-AI%20ENGINEERING-001A08?style=flat-square&labelColor=0D1117"/>
+</a>
+
+<a href="#05--technology-stack">
+<img src="https://img.shields.io/badge/05-STACK-001A08?style=flat-square&labelColor=0D1117"/>
+</a>
+
+<a href="#06--current-focus">
+<img src="https://img.shields.io/badge/06-FOCUS-001A08?style=flat-square&labelColor=0D1117"/>
+</a>
+
+<a href="#07--github-activity">
+<img src="https://img.shields.io/badge/07-ACTIVITY-001A08?style=flat-square&labelColor=0D1117"/>
+</a>
+
+<a href="#08--connect">
+<img src="https://img.shields.io/badge/08-CONNECT-001A08?style=flat-square&labelColor=0D1117"/>
+</a>
 
 </div>
 
@@ -55,31 +81,17 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=2
 
 # 01 / ABOUT
 
-### Full-Stack AI Engineer building intelligent systems from idea to production.
+## Full-Stack AI Engineer building intelligent systems from idea to production.
 
-I build **production-grade AI applications** across Generative AI, agentic systems, Retrieval-Augmented Generation, backend engineering, modern web applications and cloud infrastructure.
+I build **production-grade AI applications** spanning Generative AI, agentic systems, Retrieval-Augmented Generation, backend engineering, modern web platforms and cloud infrastructure.
 
-My work sits at the intersection of:
+My work sits at the intersection of **Artificial Intelligence, Software Engineering, Product Thinking and Cloud Architecture**.
 
-```text
-ARTIFICIAL INTELLIGENCE
-          +
-SOFTWARE ENGINEERING
-          +
-PRODUCT THINKING
-          +
-CLOUD INFRASTRUCTURE
-```
+I enjoy taking an ambiguous problem and turning it into a system that can **understand context, retrieve information, reason, use tools, execute workflows and continuously improve**.
 
-I enjoy taking ambiguous problems and converting them into complete systems that can:
+The goal is not simply to connect an application to an LLM.
 
-```text
-UNDERSTAND  →  RETRIEVE  →  REASON  →  USE TOOLS  →  ACT  →  IMPROVE
-```
-
-My focus is not simply connecting an application to an LLM.
-
-I focus on engineering systems where **AI becomes part of a reliable product, workflow or decision process**.
+The goal is to engineer **reliable AI-powered products that solve real problems**.
 
 <br/>
 
@@ -88,73 +100,53 @@ I focus on engineering systems where **AI becomes part of a reliable product, wo
 
 <td width="25%" align="center">
 
-### AI SYSTEMS
+<h3>AI SYSTEMS</h3>
 
-`LLMs`
-
-`Agentic AI`
-
-`Hybrid RAG`
-
-`LangGraph`
-
-`LangChain`
-
-`AI Evaluation`
+LLMs<br/>
+Agentic AI<br/>
+Hybrid RAG<br/>
+LangGraph<br/>
+LangChain<br/>
+AI Evaluation
 
 </td>
 
 <td width="25%" align="center">
 
-### BACKEND
+<h3>BACKEND</h3>
 
-`Python`
-
-`FastAPI`
-
-`Django`
-
-`REST APIs`
-
-`PostgreSQL`
-
-`System Design`
+Python<br/>
+FastAPI<br/>
+Django<br/>
+REST APIs<br/>
+PostgreSQL<br/>
+System Design
 
 </td>
 
 <td width="25%" align="center">
 
-### PRODUCT
+<h3>PRODUCT</h3>
 
-`React`
-
-`JavaScript`
-
-`TypeScript`
-
-`Responsive UI`
-
-`API Integration`
-
-`Product Engineering`
+React<br/>
+JavaScript<br/>
+TypeScript<br/>
+Responsive UI<br/>
+API Integration<br/>
+Product Engineering
 
 </td>
 
 <td width="25%" align="center">
 
-### PLATFORM
+<h3>PLATFORM</h3>
 
-`AWS`
-
-`Azure`
-
-`GCP`
-
-`Docker`
-
-`Kubernetes`
-
-`CI/CD`
+AWS<br/>
+Azure<br/>
+Google Cloud<br/>
+Docker<br/>
+Kubernetes<br/>
+CI/CD
 
 </td>
 
@@ -163,47 +155,125 @@ I focus on engineering systems where **AI becomes part of a reliable product, wo
 
 ---
 
-<div align="center">
-
-<pre>
-              │
-              │
-           .-----.
-         .'       '.
-        /  o     o  \
-       |      ^      |
-       |    \___/    |
-        \           /
-         '---------'
-            /|\
-           / | \
-             │
-             │
-             ▼
-</pre>
-
-<sub>KEEP SCROLLING</sub>
-
-</div>
-
----
-
 # 02 / HOW I BUILD
 
-I approach AI products as **complete engineering systems**, not isolated model integrations.
+I treat AI applications as **complete software systems**, not isolated model integrations.
+
+<br/>
+
+<table>
+
+<tr>
+
+<td width="16%" align="center">
+
+<h3>01</h3>
+
+<strong>UNDERSTAND</strong>
+
+<br/><br/>
+
+User problem<br/>
+Business need<br/>
+Constraints<br/>
+Success metrics
+
+</td>
+
+<td width="16%" align="center">
+
+<h3>02</h3>
+
+<strong>ARCHITECT</strong>
+
+<br/><br/>
+
+Product<br/>
+AI<br/>
+Data<br/>
+Cloud
+
+</td>
+
+<td width="16%" align="center">
+
+<h3>03</h3>
+
+<strong>BUILD</strong>
+
+<br/><br/>
+
+Agents<br/>
+RAG<br/>
+APIs<br/>
+Frontend
+
+</td>
+
+<td width="16%" align="center">
+
+<h3>04</h3>
+
+<strong>DEPLOY</strong>
+
+<br/><br/>
+
+Docker<br/>
+Kubernetes<br/>
+CI/CD<br/>
+Cloud
+
+</td>
+
+<td width="16%" align="center">
+
+<h3>05</h3>
+
+<strong>OBSERVE</strong>
+
+<br/><br/>
+
+Logs<br/>
+Latency<br/>
+Quality<br/>
+Reliability
+
+</td>
+
+<td width="16%" align="center">
+
+<h3>06</h3>
+
+<strong>IMPROVE</strong>
+
+<br/><br/>
+
+Feedback<br/>
+Evaluation<br/>
+Optimization<br/>
+Iteration
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+### SYSTEM FLOW
 
 ```mermaid
 flowchart LR
 
-    A["Problem"]
-    B["Product Design"]
-    C["AI Architecture"]
-    D["Agents / RAG"]
-    E["Backend APIs"]
-    F["Product UI"]
-    G["Cloud"]
-    H["Observe"]
-    I["Improve"]
+    A["PROBLEM"]
+    B["ARCHITECTURE"]
+    C["AI + DATA"]
+    D["BACKEND"]
+    E["PRODUCT"]
+    F["CLOUD"]
+    G["OBSERVE"]
+    H["IMPROVE"]
 
     A --> B
     B --> C
@@ -212,72 +282,15 @@ flowchart LR
     E --> F
     F --> G
     G --> H
-    H --> I
 
-    style A fill:#161B22,stroke:#58A6FF,color:#F0F6FC
-    style B fill:#161B22,stroke:#A371F7,color:#F0F6FC
-    style C fill:#161B22,stroke:#DB61A2,color:#F0F6FC
-    style D fill:#161B22,stroke:#D29922,color:#F0F6FC
-    style E fill:#161B22,stroke:#3FB950,color:#F0F6FC
-    style F fill:#161B22,stroke:#39C5CF,color:#F0F6FC
-    style G fill:#161B22,stroke:#58A6FF,color:#F0F6FC
-    style H fill:#161B22,stroke:#A371F7,color:#F0F6FC
-    style I fill:#161B22,stroke:#3FB950,color:#F0F6FC
-```
-
-### SYSTEM DEVELOPMENT FLOW
-
-```text
-01 / UNDERSTAND
-     │
-     ├── User Problem
-     ├── Business Requirements
-     ├── Constraints
-     └── Success Metrics
-     │
-     ▼
-
-02 / ARCHITECT
-     │
-     ├── Product Architecture
-     ├── AI Architecture
-     ├── Data Architecture
-     └── Cloud Architecture
-     │
-     ▼
-
-03 / BUILD
-     │
-     ├── Agents
-     ├── RAG Pipelines
-     ├── APIs
-     ├── Databases
-     └── Frontend
-     │
-     ▼
-
-04 / DEPLOY
-     │
-     ├── Docker
-     ├── Kubernetes
-     ├── CI/CD
-     └── Cloud
-     │
-     ▼
-
-05 / OBSERVE
-     │
-     ├── Logs
-     ├── Metrics
-     ├── AI Quality
-     ├── Latency
-     └── Reliability
-     │
-     ▼
-
-06 / IMPROVE
-     │
-     └── Production Feedback → Better System
+    style A fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style B fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style C fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style D fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style E fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style F fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style G fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style H fill:#0D1117,stroke:#00FF41,color:#F0F6FC
 ```
 
 ---
@@ -285,39 +298,35 @@ flowchart LR
 # 03 / PRODUCTS
 
 <table>
+
 <tr>
 
 <td width="33%" valign="top">
 
 <h2 align="center">FinAI</h2>
 
-<p align="center"><strong>AI Financial Intelligence Platform</strong></p>
+<p align="center">
+<strong>AI Financial Intelligence Platform</strong>
+</p>
 
-AI-powered financial intelligence platform designed to transform portfolio, company, market and news data into useful investment insights.
+AI-powered platform designed to transform financial, company, portfolio, market and news data into actionable intelligence.
 
 <br/>
 
-<strong>CORE SYSTEMS</strong>
+<strong>CORE CAPABILITIES</strong>
 
 <br/><br/>
 
-`Portfolio Intelligence`
-
-`Fundamental Analysis`
-
-`Technical Analysis`
-
-`Risk Scoring`
-
-`AI Insights`
-
-`News Intelligence`
-
-`Sentiment Analysis`
-
-`Stock Forecasting`
-
-`S&P 500 Benchmarking`
+• Portfolio intelligence<br/>
+• Fundamental analysis<br/>
+• Technical analysis<br/>
+• AI-generated insights<br/>
+• Risk scoring<br/>
+• News intelligence<br/>
+• Sentiment analysis<br/>
+• Stock forecasting<br/>
+• S&P 500 benchmarking<br/>
+• Financial visualization
 
 <br/><br/>
 
@@ -325,55 +334,37 @@ AI-powered financial intelligence platform designed to transform portfolio, comp
 
 <br/><br/>
 
-`Python`
-
-`Django`
-
-`React`
-
-`PostgreSQL`
-
-`LLMs`
-
-`Financial APIs`
-
-`Docker`
-
-`Cloud`
+Python · Django · React · PostgreSQL · LLMs · APIs · Docker · Cloud
 
 </td>
+
 
 <td width="33%" valign="top">
 
 <h2 align="center">Tudu</h2>
 
-<p align="center"><strong>AI Productivity & Planning Platform</strong></p>
+<p align="center">
+<strong>AI Productivity & Planning Platform</strong>
+</p>
 
-An intelligent productivity platform that understands natural-language tasks and transforms them into structured, contextual and actionable plans.
+An intelligent productivity platform that understands natural-language tasks and transforms them into contextual, structured and actionable plans.
 
 <br/>
 
-<strong>CORE SYSTEMS</strong>
+<strong>CORE CAPABILITIES</strong>
 
 <br/><br/>
 
-`Task Intelligence`
-
-`Natural Language Input`
-
-`Smart Scheduling`
-
-`Date Extraction`
-
-`AI Recommendations`
-
-`Location Intelligence`
-
-`Shared Tasks`
-
-`Authentication`
-
-`Planning Workflows`
+• Natural-language tasks<br/>
+• Intelligent date extraction<br/>
+• Smart scheduling<br/>
+• AI recommendations<br/>
+• Context-aware planning<br/>
+• Location intelligence<br/>
+• Nearby store discovery<br/>
+• Shared task workflows<br/>
+• Authentication<br/>
+• Mobile-first architecture
 
 <br/><br/>
 
@@ -381,55 +372,37 @@ An intelligent productivity platform that understands natural-language tasks and
 
 <br/><br/>
 
-`AI Agents`
-
-`React`
-
-`Django`
-
-`PostgreSQL`
-
-`REST APIs`
-
-`Maps`
-
-`JWT`
-
-`Cloud`
+AI Agents · React · Django · PostgreSQL · REST APIs · Maps · JWT · Cloud
 
 </td>
+
 
 <td width="33%" valign="top">
 
 <h2 align="center">Atharva</h2>
 
-<p align="center"><strong>AI + IoT Agricultural Intelligence</strong></p>
+<p align="center">
+<strong>AI + IoT Agricultural Intelligence</strong>
+</p>
 
-An intelligent agriculture ecosystem combining artificial intelligence, connected devices, analytics and digital market infrastructure.
+An intelligent agriculture ecosystem combining AI, connected devices, analytics, automation and digital market infrastructure.
 
 <br/>
 
-<strong>CORE SYSTEMS</strong>
+<strong>CORE CAPABILITIES</strong>
 
 <br/><br/>
 
-`Crop Intelligence`
-
-`Soil Analysis`
-
-`IoT Monitoring`
-
-`Smart Irrigation`
-
-`Crop Health`
-
-`Pest Detection`
-
-`Weather Intelligence`
-
-`Farmer Marketplace`
-
-`Recommendations`
+• Crop intelligence<br/>
+• Soil analysis<br/>
+• IoT monitoring<br/>
+• Smart irrigation<br/>
+• Crop-health analysis<br/>
+• Pest detection<br/>
+• Weather intelligence<br/>
+• Farmer marketplace<br/>
+• Recommendations<br/>
+• Agricultural analytics
 
 <br/><br/>
 
@@ -437,46 +410,13 @@ An intelligent agriculture ecosystem combining artificial intelligence, connecte
 
 <br/><br/>
 
-`AI`
-
-`IoT`
-
-`Cloud`
-
-`Analytics`
-
-`Automation`
-
-`APIs`
+Artificial Intelligence · IoT · Cloud · APIs · Analytics · Automation
 
 </td>
 
 </tr>
+
 </table>
-
----
-
-<div align="center">
-
-<pre>
-              │
-              │
-          .---------.
-        .'           '.
-       /   ◉       ◉   \
-      |        ^        |
-      |      _____      |
-       \               /
-        '-------------'
-            / | \
-           /  |  \
-              │
-              ▼
-</pre>
-
-<sub>MORE SYSTEMS BELOW</sub>
-
-</div>
 
 ---
 
@@ -484,36 +424,31 @@ An intelligent agriculture ecosystem combining artificial intelligence, connecte
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OPENAI-161B22?style=for-the-badge&logo=openai&logoColor=F0F6FC"/>
-
-<img src="https://img.shields.io/badge/LANGCHAIN-161B22?style=for-the-badge&logo=langchain&logoColor=39C5CF"/>
-
-<img src="https://img.shields.io/badge/LANGGRAPH-161B22?style=for-the-badge&logoColor=A371F7"/>
-
-<img src="https://img.shields.io/badge/HYBRID_RAG-161B22?style=for-the-badge&logoColor=D29922"/>
-
-<img src="https://img.shields.io/badge/AI_AGENTS-161B22?style=for-the-badge&logoColor=DB61A2"/>
-
-<img src="https://img.shields.io/badge/TOOL_CALLING-161B22?style=for-the-badge&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/OPENAI-001A08?style=for-the-badge&logo=openai&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-001A08?style=for-the-badge&logo=langchain&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/LANGGRAPH-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/AGENTIC_AI-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/HYBRID_RAG-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/TOOL_CALLING-001A08?style=for-the-badge&logoColor=00FF41"/>
 
 </div>
 
 <br/>
 
-## REFERENCE AI ARCHITECTURE
+## REFERENCE AI SYSTEM ARCHITECTURE
 
 ```mermaid
 flowchart TB
 
     USER["USER"]
 
-    FRONTEND["React / Next.js"]
+    FRONTEND["REACT / NEXT.JS"]
 
-    API["FastAPI / Django API"]
+    API["FASTAPI / DJANGO"]
 
-    ORCH["AI ORCHESTRATION<br/>LangGraph / LangChain"]
+    ORCH["AI ORCHESTRATION<br/>LANGGRAPH / LANGCHAIN"]
 
-    AGENT["LLM AGENTS"]
+    AGENTS["LLM AGENTS"]
 
     RAG["HYBRID RAG"]
 
@@ -525,129 +460,114 @@ flowchart TB
 
     CACHE["REDIS"]
 
-    CLOUD["CLOUD INFRASTRUCTURE<br/>Docker / Kubernetes / AWS / Azure / GCP"]
+    OBSERVE["OBSERVABILITY"]
+
+    CLOUD["CLOUD PLATFORM<br/>DOCKER / KUBERNETES / AWS / AZURE / GCP"]
 
 
     USER --> FRONTEND
-
     FRONTEND --> API
-
     API --> ORCH
 
-    ORCH --> AGENT
-
+    ORCH --> AGENTS
     ORCH --> RAG
 
-    AGENT --> TOOLS
+    AGENTS --> TOOLS
 
     RAG --> VECTOR
-
     RAG --> SQL
 
     TOOLS --> CACHE
 
     VECTOR --> CLOUD
-
     SQL --> CLOUD
-
     CACHE --> CLOUD
 
+    CLOUD --> OBSERVE
 
-    style USER fill:#161B22,stroke:#F0F6FC,color:#F0F6FC
 
-    style FRONTEND fill:#161B22,stroke:#39C5CF,color:#F0F6FC
-
-    style API fill:#161B22,stroke:#3FB950,color:#F0F6FC
-
-    style ORCH fill:#161B22,stroke:#A371F7,color:#F0F6FC
-
-    style AGENT fill:#161B22,stroke:#DB61A2,color:#F0F6FC
-
-    style RAG fill:#161B22,stroke:#D29922,color:#F0F6FC
-
-    style TOOLS fill:#161B22,stroke:#58A6FF,color:#F0F6FC
-
-    style VECTOR fill:#161B22,stroke:#58A6FF,color:#F0F6FC
-
-    style SQL fill:#161B22,stroke:#4169E1,color:#F0F6FC
-
-    style CACHE fill:#161B22,stroke:#FF4438,color:#F0F6FC
-
-    style CLOUD fill:#161B22,stroke:#3FB950,color:#F0F6FC
+    style USER fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style FRONTEND fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style API fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style ORCH fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style AGENTS fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style RAG fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style TOOLS fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style VECTOR fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style SQL fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style CACHE fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style CLOUD fill:#0D1117,stroke:#00FF41,color:#F0F6FC
+    style OBSERVE fill:#0D1117,stroke:#00FF41,color:#F0F6FC
 ```
 
 <br/>
 
 <table>
+
 <tr>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### GENERATIVE AI
+<h3>GENERATIVE AI</h3>
 
-`Prompt Engineering`
-
-`Context Engineering`
-
-`Structured Output`
-
-`Function Calling`
-
-`LLM APIs`
-
-`Model Selection`
-
-`AI Evaluation`
-
-`Guardrails`
+Prompt Engineering<br/>
+Context Engineering<br/>
+Structured Output<br/>
+Function Calling<br/>
+LLM APIs<br/>
+Model Selection<br/>
+Evaluation<br/>
+Guardrails
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### AGENTIC SYSTEMS
+<h3>AGENTIC SYSTEMS</h3>
 
-`LangGraph`
-
-`Stateful Agents`
-
-`Tool Calling`
-
-`Workflow Routing`
-
-`Agent Memory`
-
-`Human-in-the-Loop`
-
-`Multi-Step Workflows`
-
-`Agent Monitoring`
+LangGraph<br/>
+Stateful Agents<br/>
+Tool Calling<br/>
+Workflow Routing<br/>
+Agent Memory<br/>
+Human-in-the-Loop<br/>
+Multi-Step Workflows<br/>
+Agent Monitoring
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### RETRIEVAL
+<h3>RETRIEVAL</h3>
 
-`Hybrid RAG`
+Hybrid RAG<br/>
+Semantic Search<br/>
+Keyword Search<br/>
+Embeddings<br/>
+Vector Search<br/>
+Chunking<br/>
+Reranking<br/>
+Retrieval Evaluation
 
-`Semantic Search`
+</td>
 
-`Keyword Search`
+<td width="25%" valign="top">
 
-`Embeddings`
+<h3>AI SECURITY</h3>
 
-`Vector Search`
-
-`Chunking`
-
-`Reranking`
-
-`Retrieval Evaluation`
+Prompt Injection Defense<br/>
+Input Validation<br/>
+Output Validation<br/>
+Guardrails<br/>
+Monitoring<br/>
+Access Control<br/>
+Data Protection<br/>
+Trustworthy AI
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -658,18 +578,20 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=39C5CF"/>
-<img src="https://img.shields.io/badge/LangGraph-161B22?style=for-the-badge&logoColor=A371F7"/>
-<img src="https://img.shields.io/badge/Hugging_Face-161B22?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/Generative_AI-161B22?style=for-the-badge&logoColor=DB61A2"/>
-<img src="https://img.shields.io/badge/AI_Agents-161B22?style=for-the-badge&logoColor=A371F7"/>
-<img src="https://img.shields.io/badge/Hybrid_RAG-161B22?style=for-the-badge&logoColor=D29922"/>
-<img src="https://img.shields.io/badge/Embeddings-161B22?style=for-the-badge&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Vector_Search-161B22?style=for-the-badge&logoColor=3FB950"/>
-<img src="https://img.shields.io/badge/Tool_Calling-161B22?style=for-the-badge&logoColor=39C5CF"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-161B22?style=for-the-badge&logoColor=D29922"/>
-<img src="https://img.shields.io/badge/AI_Evaluation-161B22?style=for-the-badge&logoColor=DB61A2"/>
+<img src="https://img.shields.io/badge/OpenAI-001A08?style=for-the-badge&logo=openai&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/LangChain-001A08?style=for-the-badge&logo=langchain&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/LangGraph-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Hugging_Face-001A08?style=for-the-badge&logo=huggingface&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Generative_AI-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Agentic_AI-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Hybrid_RAG-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Embeddings-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Vector_Search-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Tool_Calling-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Context_Engineering-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/AI_Evaluation-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Guardrails-001A08?style=for-the-badge&logoColor=00FF41"/>
 
 </div>
 
@@ -679,12 +601,12 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/R-161B22?style=for-the-badge&logo=r&logoColor=276DC3"/>
-<img src="https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
+<img src="https://img.shields.io/badge/Python-001A08?style=for-the-badge&logo=python&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/JavaScript-001A08?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/TypeScript-001A08?style=for-the-badge&logo=typescript&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/SQL-001A08?style=for-the-badge&logo=postgresql&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/R-001A08?style=for-the-badge&logo=r&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Bash-001A08?style=for-the-badge&logo=gnubash&logoColor=00FF41"/>
 
 </div>
 
@@ -694,14 +616,16 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Django-161B22?style=for-the-badge&logo=django&logoColor=44B78B"/>
-<img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
-<img src="https://img.shields.io/badge/REST_API-161B22?style=for-the-badge&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/WebSockets-161B22?style=for-the-badge&logoColor=39C5CF"/>
-<img src="https://img.shields.io/badge/JWT-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=D29922"/>
-<img src="https://img.shields.io/badge/OAuth_2.0-161B22?style=for-the-badge&logoColor=A371F7"/>
-<img src="https://img.shields.io/badge/Async_APIs-161B22?style=for-the-badge&logoColor=DB61A2"/>
+<img src="https://img.shields.io/badge/FastAPI-001A08?style=for-the-badge&logo=fastapi&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Django-001A08?style=for-the-badge&logo=django&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Node.js-001A08?style=for-the-badge&logo=nodedotjs&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/REST_API-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/WebSockets-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/JWT-001A08?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Async_APIs-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/API_Architecture-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Microservices-001A08?style=for-the-badge&logoColor=00FF41"/>
 
 </div>
 
@@ -711,12 +635,13 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Responsive_UI-161B22?style=for-the-badge&logoColor=DB61A2"/>
+<img src="https://img.shields.io/badge/React-001A08?style=for-the-badge&logo=react&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Next.js-001A08?style=for-the-badge&logo=nextdotjs&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/HTML5-001A08?style=for-the-badge&logo=html5&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/CSS3-001A08?style=for-the-badge&logo=css3&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-001A08?style=for-the-badge&logo=tailwindcss&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Responsive_UI-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/API_Integration-001A08?style=for-the-badge&logoColor=00FF41"/>
 
 </div>
 
@@ -726,13 +651,15 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Redis-161B22?style=for-the-badge&logo=redis&logoColor=FF4438"/>
-<img src="https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=44A2D6"/>
-<img src="https://img.shields.io/badge/pgvector-161B22?style=for-the-badge&logo=postgresql&logoColor=A371F7"/>
-<img src="https://img.shields.io/badge/Vector_DB-161B22?style=for-the-badge&logoColor=D29922"/>
+<img src="https://img.shields.io/badge/PostgreSQL-001A08?style=for-the-badge&logo=postgresql&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/MySQL-001A08?style=for-the-badge&logo=mysql&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/MongoDB-001A08?style=for-the-badge&logo=mongodb&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Redis-001A08?style=for-the-badge&logo=redis&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/SQLite-001A08?style=for-the-badge&logo=sqlite&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/pgvector-001A08?style=for-the-badge&logo=postgresql&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Vector_DB-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Vector_Search-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Caching-001A08?style=for-the-badge&logoColor=00FF41"/>
 
 </div>
 
@@ -742,14 +669,16 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=E70488"/>
-<img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-<img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/TensorFlow-161B22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/PyTorch-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Time_Series-161B22?style=for-the-badge&logoColor=3FB950"/>
-<img src="https://img.shields.io/badge/Predictive_Modeling-161B22?style=for-the-badge&logoColor=A371F7"/>
+<img src="https://img.shields.io/badge/Pandas-001A08?style=for-the-badge&logo=pandas&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/NumPy-001A08?style=for-the-badge&logo=numpy&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/scikit--learn-001A08?style=for-the-badge&logo=scikitlearn&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/TensorFlow-001A08?style=for-the-badge&logo=tensorflow&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/PyTorch-001A08?style=for-the-badge&logo=pytorch&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/OpenCV-001A08?style=for-the-badge&logo=opencv&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Time_Series-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Predictive_Modeling-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Statistical_Analysis-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-001A08?style=for-the-badge&logoColor=00FF41"/>
 
 </div>
 
@@ -759,12 +688,13 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-161B22?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
-<img src="https://img.shields.io/badge/Google_Cloud-161B22?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/Cloud_Run-161B22?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/Azure_App_Service-161B22?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
-<img src="https://img.shields.io/badge/Cloud_SQL-161B22?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/AWS-001A08?style=for-the-badge&logo=amazonwebservices&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-001A08?style=for-the-badge&logo=microsoftazure&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Google_Cloud-001A08?style=for-the-badge&logo=googlecloud&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Cloud_Run-001A08?style=for-the-badge&logo=googlecloud&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Azure_App_Service-001A08?style=for-the-badge&logo=microsoftazure&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Cloud_SQL-001A08?style=for-the-badge&logo=googlecloud&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Cloud_Native-001A08?style=for-the-badge&logoColor=00FF41"/>
 
 </div>
 
@@ -774,13 +704,16 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-161B22?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Nginx-161B22?style=for-the-badge&logo=nginx&logoColor=009639"/>
-<img src="https://img.shields.io/badge/CI%2FCD-161B22?style=for-the-badge&logoColor=A371F7"/>
+<img src="https://img.shields.io/badge/Docker-001A08?style=for-the-badge&logo=docker&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Kubernetes-001A08?style=for-the-badge&logo=kubernetes&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-001A08?style=for-the-badge&logo=githubactions&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Linux-001A08?style=for-the-badge&logo=linux&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Git-001A08?style=for-the-badge&logo=git&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Nginx-001A08?style=for-the-badge&logo=nginx&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/CI%2FCD-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Containers-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Production_Deployment-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/System_Design-001A08?style=for-the-badge&logoColor=00FF41"/>
 
 </div>
 
@@ -790,14 +723,16 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Splunk-161B22?style=for-the-badge&logo=splunk&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/OWASP-161B22?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Application_Security-161B22?style=for-the-badge&logoColor=DB61A2"/>
-<img src="https://img.shields.io/badge/Authentication-161B22?style=for-the-badge&logoColor=A371F7"/>
-<img src="https://img.shields.io/badge/Authorization-161B22?style=for-the-badge&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Monitoring-161B22?style=for-the-badge&logoColor=3FB950"/>
-<img src="https://img.shields.io/badge/Logging-161B22?style=for-the-badge&logoColor=D29922"/>
-<img src="https://img.shields.io/badge/AI_Security-161B22?style=for-the-badge&logoColor=DB61A2"/>
+<img src="https://img.shields.io/badge/Splunk-001A08?style=for-the-badge&logo=splunk&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/OWASP-001A08?style=for-the-badge&logo=owasp&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Application_Security-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/AI_Security-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Authentication-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Authorization-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Monitoring-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Logging-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Risk_Scoring-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Data_Validation-001A08?style=for-the-badge&logoColor=00FF41"/>
 
 </div>
 
@@ -807,12 +742,12 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Tableau-161B22?style=for-the-badge&logo=tableau&logoColor=E97627"/>
-<img src="https://img.shields.io/badge/Power_BI-161B22?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Excel-161B22?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
-<img src="https://img.shields.io/badge/Plotly-161B22?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
-<img src="https://img.shields.io/badge/Data_Visualization-161B22?style=for-the-badge&logoColor=39C5CF"/>
-<img src="https://img.shields.io/badge/Statistical_Analysis-161B22?style=for-the-badge&logoColor=A371F7"/>
+<img src="https://img.shields.io/badge/Tableau-001A08?style=for-the-badge&logo=tableau&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Power_BI-001A08?style=for-the-badge&logo=powerbi&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Excel-001A08?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Plotly-001A08?style=for-the-badge&logo=plotly&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Data_Visualization-001A08?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Data_Mining-001A08?style=for-the-badge&logoColor=00FF41"/>
 
 </div>
 
@@ -822,11 +757,11 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-161B22?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-001A08?style=for-the-badge&logo=github&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/VS_Code-001A08?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Postman-001A08?style=for-the-badge&logo=postman&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Figma-001A08?style=for-the-badge&logo=figma&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-001A08?style=for-the-badge&logo=githubcopilot&logoColor=00FF41"/>
 
 </div>
 
@@ -834,113 +769,125 @@ flowchart TB
 
 # 06 / CURRENT FOCUS
 
-```yaml
-AI_ENGINEERING:
+<table>
 
-  Generative_AI:
-    - Production LLM Applications
-    - Context Engineering
-    - Structured Generation
-    - Tool Calling
-    - AI Evaluation
+<tr>
 
-  Agentic_Systems:
-    - LangGraph
-    - Stateful Agents
-    - Multi-Step Workflows
-    - Tool-Using Agents
-    - Human-in-the-Loop
-    - Agent Monitoring
+<td width="33%" valign="top">
 
-  Retrieval:
-    - Hybrid RAG
-    - Semantic Search
-    - Keyword Search
-    - Vector Retrieval
-    - Reranking
-    - Retrieval Evaluation
+<h3>AI ENGINEERING</h3>
 
-  AI_Security:
-    - Prompt Injection Defense
-    - Input Validation
-    - Output Validation
-    - AI Monitoring
-    - Application Security
-    - Trustworthy AI
+<strong>Generative AI</strong><br/>
+Production LLM Applications<br/>
+Context Engineering<br/>
+Structured Generation<br/>
+Tool Calling<br/>
+LLM Evaluation<br/>
+Guardrails
 
+<br/><br/>
 
-SOFTWARE_ENGINEERING:
+<strong>Agentic Systems</strong><br/>
+LangGraph<br/>
+Stateful Workflows<br/>
+Tool-Using Agents<br/>
+Human-in-the-Loop<br/>
+Agent Monitoring
 
-  Backend:
-    - API Architecture
-    - Distributed Systems
-    - Authentication
-    - Authorization
-    - Database Design
-    - Async Processing
+</td>
 
-  Cloud:
-    - Docker
-    - Kubernetes
-    - CI/CD
-    - Cloud-Native Systems
-    - Production Monitoring
+<td width="33%" valign="top">
 
-  Product:
-    - AI SaaS
-    - Intelligent Automation
-    - Human-AI Collaboration
-    - Full-Stack AI Products
-```
+<h3>RETRIEVAL & SECURITY</h3>
+
+<strong>Retrieval</strong><br/>
+Hybrid RAG<br/>
+Semantic Search<br/>
+Keyword Search<br/>
+Vector Retrieval<br/>
+Reranking<br/>
+Retrieval Evaluation
+
+<br/><br/>
+
+<strong>AI Security</strong><br/>
+Prompt Injection Defense<br/>
+Input Validation<br/>
+Output Validation<br/>
+AI Monitoring<br/>
+Application Security
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>PLATFORM ENGINEERING</h3>
+
+<strong>Backend</strong><br/>
+API Architecture<br/>
+Distributed Systems<br/>
+Authentication<br/>
+Authorization<br/>
+Database Design<br/>
+Async Processing
+
+<br/><br/>
+
+<strong>Cloud</strong><br/>
+Containers<br/>
+Kubernetes<br/>
+CI/CD<br/>
+Cloud-Native Architecture<br/>
+Production Monitoring
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # ENGINEERING PRINCIPLES
 
 <table>
+
 <tr>
 
 <td width="25%" align="center">
 
-### 01
+<h3>01 / SOLVE</h3>
 
-**SOLVE**
-
-Understand the real problem before choosing the technology.
+Understand the actual problem before selecting the technology.
 
 </td>
 
 <td width="25%" align="center">
 
-### 02
+<h3>02 / DESIGN</h3>
 
-**DESIGN**
-
-Treat AI as one component of a complete software system.
+Treat AI as one component of a complete production system.
 
 </td>
 
 <td width="25%" align="center">
 
-### 03
+<h3>03 / MEASURE</h3>
 
-**MEASURE**
-
-Evaluate quality, latency, reliability and user impact.
+Measure quality, latency, reliability, security and user impact.
 
 </td>
 
 <td width="25%" align="center">
 
-### 04
-
-**IMPROVE**
+<h3>04 / IMPROVE</h3>
 
 Use production feedback to continuously improve the system.
 
 </td>
 
 </tr>
+
 </table>
 
 <br/>
@@ -949,64 +896,29 @@ Use production feedback to continuously improve the system.
 
 ---
 
-<div align="center">
-
-<pre>
-              │
-              │
-          .---------.
-        .'           '.
-       /    o     o    \
-      |        ^        |
-      |      _____      |
-       \               /
-        '-------------'
-          __/  |  \__
-              │
-              │
-              ▼
-</pre>
-
-<sub>ALMOST THERE</sub>
-
-</div>
-
----
-
 # 07 / GITHUB ACTIVITY
 
-<div align="center">
+No external statistics dashboards or broken activity images.
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=rakeshsurampalli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=A371F7"
-/>
-
-<img
-width="49%"
-src="https://streak-stats.demolab.com?user=rakeshsurampalli&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
-/>
-
-</div>
+GitHub already provides the native contribution graph, repository history and activity directly on the profile.
 
 <br/>
 
 <div align="center">
 
-<img
-width="96%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=rakeshsurampalli&bg_color=0D1117&color=8B949E&line=58A6FF&point=A371F7&area=true&area_color=161B22&hide_border=true"
-/>
+<a href="https://github.com/rakeshsurampalli" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-001A08?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
 
-</div>
+<a href="https://github.com/rakeshsurampalli?tab=repositories" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/VIEW-REPOSITORIES-001A08?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
 
-<br/>
+<a href="https://github.com/rakeshsurampalli?tab=overview" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/VIEW-CONTRIBUTIONS-001A08?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
 
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=rakeshsurampalli&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6"
-/>
+<img src="https://img.shields.io/github/followers/rakeshsurampalli?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0D1117&color=001A08&logoColor=00FF41"/>
 
 </div>
 
@@ -1016,57 +928,36 @@ src="https://github-profile-trophy.vercel.app/?username=rakeshsurampalli&theme=d
 
 <div align="center">
 
-### Let's build intelligent systems that solve real problems.
+<h3>BUILDING INTELLIGENT SYSTEMS THAT SOLVE REAL PROBLEMS</h3>
 
-<br/>
+Generative AI · Agentic Systems · Hybrid RAG · Full-Stack AI · AI SaaS
 
-`GENERATIVE AI`
-&nbsp;
-`AI AGENTS`
-&nbsp;
-`RAG`
-&nbsp;
-`FULL-STACK AI`
+Cloud Architecture · Intelligent Automation · AI Security · Product Engineering
 
 <br/><br/>
 
-`AI SAAS`
-&nbsp;
-`CLOUD ARCHITECTURE`
-&nbsp;
-`INTELLIGENT AUTOMATION`
-&nbsp;
-`AI SECURITY`
+<a href="https://www.linkedin.com/in/rakeshsurampalli27/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-001A08?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
+
+<a href="mailto:rakeshsurampalli@gmail.com" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-001A08?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
+
+<a href="https://rakeshsurampalli.github.io/Rakesh_portfolio/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/PORTFOLIO-VIEW%20WORK-001A08?style=for-the-badge&logo=githubpages&logoColor=00FF41"/>
+</a>
+
+<a href="https://medium.com/@rakeshsurampalli" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/MEDIUM-READ-001A08?style=for-the-badge&logo=medium&logoColor=00FF41"/>
+</a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/rakeshsurampalli27/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
+<strong>BUILD SYSTEMS · SOLVE PROBLEMS · CREATE IMPACT</strong>
 
-<a href="mailto:rakeshsurampalli@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-161B22?style=for-the-badge&logo=gmail&logoColor=D29922"/>
-</a>
+<br/><br/>
 
-<a href="https://rakeshsurampalli.github.io/Rakesh_portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VIEW_WORK-161B22?style=for-the-badge&logo=githubpages&logoColor=A371F7"/>
-</a>
-
-<a href="https://medium.com/@rakeshsurampalli">
-<img src="https://img.shields.io/badge/MEDIUM-READ-161B22?style=for-the-badge&logo=medium&logoColor=F0F6FC"/>
-</a>
-
-<br/><br/><br/>
-
-<pre>
-BUILD SYSTEMS  /  SOLVE PROBLEMS  /  CREATE IMPACT
-</pre>
-
-<br/>
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,65:1F2937,100:0D1117&height=130&section=footer"
-/>
+<img src="https://img.shields.io/badge/%3C%2F%3E-BUILT%20WITH%20CURIOSITY-001A08?style=flat-square&labelColor=0D1117&logoColor=00FF41"/>
 
 </div>
