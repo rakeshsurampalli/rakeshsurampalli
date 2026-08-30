@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.1" height="30" viewBox="0 0 80.1 30" preserveAspectRatio="xMidYMid meet" role="img" aria-label="STACK section">
+  <title>STACK section</title>
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#00FF41" opacity="0.03"/>
+    </pattern>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#00FF41" stroke-width="0.5" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <style>
+    text { font-family: "JetBrains Mono","Fira Code","IBM Plex Mono","DejaVu Sans Mono","Courier New",monospace; white-space: pre; }
+    .t { fill: #D7FFE0; }
+    .t2 { fill: #8BB596; }
+    .g { fill: #00FF41; }
+    .g2 { fill: #00C832; }
+    .gd { fill: #008F2F; }
+    .m { fill: #548C61; }
+    .b { font-weight: 700; }
+    @keyframes fin { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink { 0%, 48% { opacity: 1; } 52%, 96% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes pulse { 0%, 100% { opacity: .3; } 50% { opacity: 1; } }
+    .cursor { animation: blink 1.15s steps(1) infinite; }
+    .dot { animation: pulse 2.6s ease-in-out infinite; }
+    /* `.in` elements are visible by default and merely fade in, so every
+       asset stays complete and readable when animation is unavailable. */
+    .in { animation: fin .55s ease-out both; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+<rect x="0.5" y="0.5" width="79.1" height="29" rx="3" fill="#07110A" stroke="#0B5F27" stroke-width="1" opacity="1"/><rect x="0.5" y="0.5" width="2.5" height="29" fill="#008F2F"/><text x="20" y="19.14" font-size="11.5" class="g2" xml:space="preserve" letter-spacing="1.4">STACK</text></svg>

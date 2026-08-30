@@ -1,0 +1,7 @@
+# local preview server artefacts
+.server.pid
+.server.out.log
+.server.err.log
+__pycache__/
+*.pyc
+.venv/
